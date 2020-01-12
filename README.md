@@ -1,2 +1,4 @@
 # C-Algorithms-and-Data-Structures
-Hello
+Hello!
+
+Here in this Repo You will find all my codes in C 
