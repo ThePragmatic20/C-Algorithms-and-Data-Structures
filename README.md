@@ -1,4 +1,7 @@
-# C-Algorithms-and-Data-Structures
-Hello!
+# Algorithms and Data Structures 
 
-Here in this Repo You will find all my codes in C 
+### here you will find th most common algorithms like:
+  * queues
+  * stacks
+  * pointers
+  
